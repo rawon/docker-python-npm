@@ -1,1 +1,1 @@
-python:3.4 with nodejs and npm packages
+python:2.7 with nodejs and npm packages
