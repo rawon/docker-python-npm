@@ -8,3 +8,4 @@ RUN npm install -g n
 RUN n 5.10.1
 RUN ln -sf /usr/local/n/versions/node/5.10.1/bin/node /usr/bin/node 
 RUN npm install -g bower
+RUN pip install fabric
